@@ -8,7 +8,7 @@ body {
 }
 
 .cabecalho {
-    background-color: #383d58;
+    background-color: #200000;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -33,7 +33,7 @@ escola.imagem {
 }
 
 .escola {
-    background-image: linear-gradient(#383d58,#00c0eb);
+    background-image: linear-gradient(#200000,#200000);
     color: white;
     display: flex;
     justify-content: center;
